@@ -1,4 +1,4 @@
-# 🚗 Temps-Route
+# 🚗 Temps de Route (Travel Time)
 
 Application permettant de calculer le temps de trajet entre différentes villes.
 
